@@ -14,6 +14,7 @@ Welcome to the Students' Educational Details web page! This simple application d
 
 ## Preview
 
+![Students' Educational Details](https://github.com/Umar-Ashraf09/Students-Educational-Details/assets/92431008/c26c0614-7a9c-43ea-acda-bd170820d5e1)
 
 
 ## Technologies Used
